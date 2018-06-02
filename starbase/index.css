@@ -10,3 +10,12 @@ body {
   color: white;
   margin-top: 60px
 }
+.extra-pp{
+    padding: 10px
+}
+.character-card{
+  background: #616161;
+  border-radius: 4px;
+  cursor: pointer;
+  padding: 15px;
+}
