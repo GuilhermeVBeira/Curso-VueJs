@@ -4,7 +4,8 @@
 </div>
 </template>
 
-<scritp>
+<script>
+
 export default {
     data() {
         return {
@@ -12,4 +13,4 @@ export default {
         }
     }
 }
-</scritp>
+</script>
